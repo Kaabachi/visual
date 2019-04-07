@@ -13,3 +13,7 @@ Requires the use of a webcam and a green board, if the board isn't green it won'
 
 The goal of the game is to score as many points as possible by moving the board and hitting columns with the ball with a certain speed.
 
+
+
+![Example](https://i.imgur.com/saXTeOY.png)
+
